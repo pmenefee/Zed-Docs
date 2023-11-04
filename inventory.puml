@@ -1,0 +1,28 @@
+@startuml
+
+object Main
+package Model {
+object InventoryData
+object SlotData
+object ItemData
+}
+
+package View {
+object InventoryInterface
+object Inventory
+object Slot
+}
+
+Main --|> InventoryData
+InventoryData --|> SlotData
+SlotData --|> ItemData
+
+
+Main --|> InventoryInterface
+InventoryInterface --|> Inventory
+Inventory --|> Slot
+
+Slot ..> InventoryData : on_slot_clicked
+InventoryData ..> InventoryInterface
+
+@enduml
