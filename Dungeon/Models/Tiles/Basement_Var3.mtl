@@ -1,0 +1,62 @@
+# Blender 3.5.1 MTL File: 'Basement_Var3.blend'
+# www.blender.org
+
+newmtl Clay_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png
+
+newmtl Floor_Muddy
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png
+
+newmtl Plants
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png
+
+newmtl Stone_Floor
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png
+
+newmtl Water_Muddy
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png
+
+newmtl Wood_Basic
+Ns 562.500000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd G:/_media/Zed-Docs/Dungeon/Models/BaseTexture.png

@@ -13,6 +13,7 @@
 |[Felgo](https://felgo.com/)|||||||||||
 |[Godot](https://godotengine.org/)|X|X|X|X|||X|X|C#, GD|X|[MIT](https://godotengine.org/license/)|
 |[GDevelop](https://gdevelop.io/)||||X|X|X||X|Javascript||MIT
+|[Hazel](https://hazelengine.com/)|||||||X|X|||
 |[jMonkey](https://jmonkeyengine.org/)|||||||X|X|Java|-|[BSD](https://jmonkeyengine.org/license/)|
 |[Monogame](https://www.monogame.net/)|X|X|X|X |X||||C#|||
 |[O3DE](https://o3de.org/)|X|X|X|X|X||X|X|C++,py,lua|X|[CCA 4.0](https://lfprojects.org/policies/terms-of-use/)
